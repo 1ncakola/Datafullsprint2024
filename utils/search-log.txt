@@ -1,0 +1,15 @@
+2024-08-14T23:10:55.957Z - User ID: 4 - Query: ford
+2024-08-14T23:11:03.781Z - User ID: 4 - Query: ford
+2024-08-14T23:18:16.564Z - User ID: 4 - Query: btw
+2024-08-14T23:18:24.165Z - User ID: 4 - Query: BMW
+2024-08-14T23:31:13.029Z - User ID: 4 - Query: BMW
+2024-08-14T23:31:14.733Z - User ID: 4 - Query: BMW
+2024-08-14T23:31:17.995Z - User ID: 4 - Query: BMW
+2024-08-14T23:40:31.598Z - User ID: 4 - Query: BMW
+2024-08-14T23:53:20.387Z - User ID: 4 - Query: bmw
+2024-08-14T23:53:24.363Z - User ID: 4 - Query: bmw
+2024-08-15T00:04:31.197Z - User ID: 4 - Query: BMW
+2024-08-15T00:54:36.708Z - User ID: 4 - Query: bmw
+2024-08-15T01:01:27.285Z - User ID: 4 - Query: bmw
+2024-08-15T01:42:59.733Z - User ID: 4 - Query: bmw
+2024-08-15T01:54:37.292Z - User ID: 4 - Query: Chevrolet

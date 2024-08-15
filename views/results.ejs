@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Results</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <h1>Search Results</h1>
+  <ul>
+    <% results.forEach(result => { %>
+      <li><strong><%= result.title %></strong> by <%= result.author %> - <%= result.genre %></li>
+      <p><%= result.description %></p>
+      <p>Published on: <%= result.publication_date.toISOString().split('T')[0] %></p>
+    <% }) %>
+  </ul>
+  <a href="/search">Back to Search</a>
+</body>
+</html>
